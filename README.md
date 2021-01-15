@@ -1,4 +1,4 @@
-Gateway
+AutoSuggestion
 =================
 See our [web site](https://www.piangles.org) for details on the project.
 
